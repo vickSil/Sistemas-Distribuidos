@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<estoque><aparelho><id>1</id><nome>celular</nome><marca>apple</marca><preco>4000.0</preco>
+<categoria>aparelho</categoria><deposito>quixada</deposito></aparelho></estoque>
